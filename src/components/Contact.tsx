@@ -19,10 +19,10 @@ export default function Contact() {
               General Inquiries
             </h3>
             <a
-              href="mailto:hello@vespermd.com"
+              href="mailto:jonathan@projectnorthhealth.com"
               className="text-lg text-teal-500 hover:text-teal-600 transition-colors"
             >
-              hello@vespermd.com
+              jonathan@projectnorthhealth.com
             </a>
           </div>
 
@@ -34,10 +34,10 @@ export default function Contact() {
               Partnership & Investment Inquiries
             </h3>
             <a
-              href="mailto:hello@vespermd.com"
+              href="mailto:jonathan@projectnorthhealth.com"
               className="text-lg text-teal-500 hover:text-teal-600 transition-colors"
             >
-              hello@vespermd.com
+              jonathan@projectnorthhealth.com
             </a>
           </div>
         </div>

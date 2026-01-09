@@ -54,7 +54,7 @@ export default function Footer() {
         </div>
 
         <div className="text-center text-sm text-zinc-500 dark:text-zinc-500 space-y-2">
-          <p>For partnership inquiries: hello@vespermd.com</p>
+          <p>For partnership inquiries: jonathan@projectnorthhealth.com</p>
           <p>© 2026 Vesper Health. All rights reserved.</p>
         </div>
       </div>
